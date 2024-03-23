@@ -1,0 +1,3 @@
+/// <reference types="vite/client" />
+
+VUE_APP_API_KEY="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYjZlNzdkODRjMjZjZjIzMjY0YjdmYzM3YTljNDJiNiIsInN1YiI6IjY1Y2ZhYzBhNjBjNzUxMDE3YjY5ZTRmMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gx2SDexc2pCDYip897p87yEruKWq7i8tKDYg9kFcxQ4"
